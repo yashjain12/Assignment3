@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Assignment3YashJain/static/css/main.0adfd4eb.css",
+    "main.js": "/Assignment3YashJain/static/js/main.bfb7675a.js",
+    "static/media/tips.csv": "/Assignment3YashJain/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/Assignment3YashJain/index.html",
+    "main.0adfd4eb.css.map": "/Assignment3YashJain/static/css/main.0adfd4eb.css.map",
+    "main.bfb7675a.js.map": "/Assignment3YashJain/static/js/main.bfb7675a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0adfd4eb.css",
+    "static/js/main.bfb7675a.js"
+  ]
+}
